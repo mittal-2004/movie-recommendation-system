@@ -39,3 +39,46 @@ cd movie-recommendation-system
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
+
+
+---
+
+## 📌 What I Learned
+
+- How content-based recommendation systems work  
+- Why cosine similarity works well with TF-IDF vectors  
+- How to design and deploy a FastAPI backend  
+- How to integrate third-party APIs  
+- How to connect frontend and backend in a real project  
+- Deployment workflow for full-stack ML applications  
+
+---
+
+## ⚠ Limitations
+
+- No user-based personalization
+- Only content-based filtering
+- Cold-start problem
+- Depends on quality of metadata
+
+---
+
+## 📈 Future Improvements
+
+- Add collaborative filtering
+- Add user login & watch history
+- Improve ranking strategy
+- Add caching for faster responses
+- Dockerize the backend
+
+---
+
+## 👨‍💻 Author
+
+Manav Mittal  
+B.Tech CSE Student  
+Interested in Machine Learning & Backend Development  
+
+---
+
+⭐ If you liked this project, feel free to give it a star!
