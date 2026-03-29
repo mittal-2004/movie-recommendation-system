@@ -1,4 +1,7 @@
 # 🎬 Movie Recommendation System
+<img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/bddf39dd-d771-4295-971f-05ba9491cb08" />
+
+
 
 A full-stack movie recommendation system built using **TF-IDF and Cosine Similarity**.  
 It recommends similar movies based on their content (overview + genres) and fetches real-time posters and details using the **TMDB API**.
